@@ -1,4 +1,4 @@
-# luis-echeverria.github.io
+# alejoe2.github.io
 # Mi Página Web Personal
 
 Este repositorio contiene el código fuente y los archivos necesarios para mi página web personal. La página web está diseñada para mostrar mi información, proyectos, habilidades y experiencia.
@@ -10,7 +10,7 @@ Este repositorio contiene el código fuente y los archivos necesarios para mi p�
 - Proporciona detalles sobre mis habilidades técnicas y conocimientos.
 - Incluye una sección de contacto para que las personas interesadas puedan comunicarse conmigo.
 
-Visita mi página web en [https://nombre-apellido.github.io](https://nombre-apellido.github.io) para obtener más información y explorar mi trabajo.
+Visita mi página web en [https://alejoe2.github.io](https://alejoe2.github.io) para obtener más información y explorar mi trabajo.
 
 ## Tecnologías utilizadas
 ## Tecnologías y Herramientas Utilizadas
@@ -29,4 +29,4 @@ Si tienes alguna pregunta o simplemente quieres decir ¡hola!, no dudes en conta
 
 - Nombre: Luis Echeverria
 - Correo electrónico: echeverrialuish@hotmail.com
-- Sitio web: [www.tusitio.com](https://www.tusitio.com)
+- Sitio web: [lejoe2.github.io](https://alejoe2.github.io)
