@@ -29,4 +29,4 @@ Si tienes alguna pregunta o simplemente quieres decir ¡hola!, no dudes en conta
 
 - Nombre: Luis Echeverria
 - Correo electrónico: echeverrialuish@hotmail.com
-- Sitio web: [lejoe2.github.io](https://alejoe2.github.io)
+- Sitio web: [alejoe2.github.io](https://alejoe2.github.io)
